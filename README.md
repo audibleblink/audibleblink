@@ -21,7 +21,7 @@
 - [holeysocks](https://github.com/audibleblink/holeysocks) - Module for implementing reverse socks through SSH (Go)
 - [git-ls](https://github.com/audibleblink/git-ls) - Map GitHub (and Enterprise) Access Token relationships, pull all private repos to which the token has been given access (Go)
 - [kh](https://github.com/audibleblink/kh) - CLI to test validity of various API service tokens (Go)
-- [sudophisher](https://github.com/audibleblink/sudophisher) - ASKPASS programs for steal git, ssh, sudo passwords (Go)
+- [sudophisher](https://github.com/audibleblink/sudophisher) - ASKPASS programs for stealing git, ssh, sudo passwords (Go)
 - [doubletap](https://github.com/audibleblink/doubletap) - Headless browser for evaluating JS to defeat dynamic nonces, etc for password spraying (Ruby/Docker)
 - [amnesia](https://github.com/audibleblink/amnesia) - wipes free memory to mess with the likes of Encase, Volatility, etc (Go)
 - [msldapuac](https://github.com/audibleblink/msldapuac) - A package for retrieving values from the Microsoft LDAP property UserAccountControl
