@@ -5,7 +5,7 @@
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb/commits/bind-interface?author=audibleblink)
 - [metasploit](https://github.com/rapid7/metasploit-framework/commits?author=audibleblink)
 - [kerbrute](https://github.com/ropnop/kerbrute/commits/master?author=audibleblink)
-- [empire](https://github.com/BC-SECURITY/Empire/blob/master/changelog#L188)
+- [empire](https://github.com/BC-SECURITY/Empire/blob/9259e5106986847d2bb770c4289c0c0f1adf2344/changelog#L384)
 - [merlin](https://github.com/Ne0nd0g/merlin/commits?author=audibleblink)
 - [evilginx2](https://github.com/kgretzky/evilginx2/commits?author=audibleblink)
 - [shhgit](https://github.com/eth0izzle/shhgit/commits?author=audibleblink)
