@@ -1,5 +1,6 @@
 ### OSS Contributions
 
+- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3Aaudibleblink)
 - [proxychains4](https://github.com/haad/proxychains/commits?author=audibleblink)
 - [kolide/fleet](https://github.com/kolide/fleet/commits?author=audibleblink)
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb/commits/bind-interface?author=audibleblink)
