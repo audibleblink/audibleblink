@@ -1,19 +1,22 @@
 ### OSS Contributions
 
-- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3Aaudibleblink)
-- [proxychains4](https://github.com/haad/proxychains/commits?author=audibleblink)
-- [kolide/fleet](https://github.com/kolide/fleet/commits?author=audibleblink)
+- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3Aaudibleblink) - Unit tests for defensive organizations
+- [proxychains4](https://github.com/haad/proxychains/commits?author=audibleblink) | CLI for proxying non-proxy-aware tools
+- [kolide/fleet](https://github.com/kolide/fleet/commits?author=audibleblink) | Federated OSQuery Platform
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb/commits/bind-interface?author=audibleblink)
 - [metasploit](https://github.com/rapid7/metasploit-framework/commits?author=audibleblink)
-- [kerbrute](https://github.com/ropnop/kerbrute/commits/master?author=audibleblink)
-- [empire](https://github.com/BC-SECURITY/Empire/blob/9259e5106986847d2bb770c4289c0c0f1adf2344/changelog#L384)
-- [merlin](https://github.com/Ne0nd0g/merlin/commits?author=audibleblink)
-- [evilginx2](https://github.com/kgretzky/evilginx2/commits?author=audibleblink)
-- [shhgit](https://github.com/eth0izzle/shhgit/commits?author=audibleblink)
-- [flamingo](https://github.com/atredispartners/flamingo/commits?author=audibleblink)
+- [kerbrute](https://github.com/ropnop/kerbrute/commits/master?author=audibleblink) | Golang Post-Exploitation utility for interacting with Kerberos 
+- [empire](https://github.com/BC-SECURITY/Empire/blob/9259e5106986847d2bb770c4289c0c0f1adf2344/changelog#L384) | Python/Powershell C2 Framework
+- [merlin](https://github.com/Ne0nd0g/merlin/commits?author=audibleblink) | Golang C2 Framework
+- [evilginx2](https://github.com/kgretzky/evilginx2/commits?author=audibleblink) | Phishing proxy server capable of bypassin 2FA by harvesting cookies
+- [shhgit](https://github.com/eth0izzle/shhgit/commits?author=audibleblink) | Git history secret scraper
+- [flamingo](https://github.com/atredispartners/flamingo/commits?author=audibleblink) | Adversarial HoneyPot
 - [wifi pineapple modules](https://github.com/hak5/wifipineapple-modules)
+- [go-winacl](https://github.com/kgoins/go-winacl/commits?author=audibleblink) | Ports Windows Security Descriptor parsing to Go
+
 
 ### Some Personal Projects
+- [ino](https://github.com/audibleblink/ino) - PE parser that extracts Imports, Exports, Forwards to Cypher-friendly JSON for Neo4j ingestion (Go)
 - [gorsh](https://github.com/audibleblink/gorsh) - Toy malware and reverse shell for CTFs. Includes enum scripts and exfil options (Go)
 - [passdb-frontend](https://github.com/audibleblink/passdb-frontend) - Svelte.js frontend for pivoting around public password dumps (JS)
 - [passdb-backend](https://github.com/audibleblink/passdb-backend) - API for passdb-frontend using GCP BigQuery as its data source (Go)
