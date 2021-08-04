@@ -11,7 +11,7 @@
 | [evilginx2](https://github.com/kgretzky/evilginx2/commits?author=audibleblink) | Phishing proxy server capable of bypassin 2FA by harvesting cookies|
 | [shhgit](https://github.com/eth0izzle/shhgit/commits?author=audibleblink) | Git history secret scraper|
 | [flamingo](https://github.com/atredispartners/flamingo/commits?author=audibleblink) | Adversarial HoneyPot|
-| [wifi pineapple modules](https://github.com/hak5/wifipineapple-modules)| WiFi Exploitation Hardware Platform|
+| [wifi pineapple modules](https://github.com/hak5/wifipineapple-modules/search?q=audibleblink)| WiFi Exploitation Hardware Platform|
 | [metasploit](https://github.com/rapid7/metasploit-framework/commits?author=audibleblink)|Popular Exploitation Framework|
 | [WhatWeb](https://github.com/urbanadventurer/WhatWeb/commits/bind-interface?author=audibleblink) | Screenshotting Web Scanner |
 | [go-winacl](https://github.com/kgoins/go-winacl/commits?author=audibleblink) | Ports Windows Security Descriptor parsing to Golang| 
