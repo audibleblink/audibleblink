@@ -1,4 +1,4 @@
-### OSS Contributions
+### Open Source Software Contributions
 
 | Link to Contributions | Project Description |
 | :--|:--|
