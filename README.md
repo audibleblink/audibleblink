@@ -16,6 +16,8 @@
 | [WhatWeb](https://github.com/urbanadventurer/WhatWeb/commits/bind-interface?author=audibleblink) | Screenshotting Web Scanner |
 | [go-winacl](https://github.com/kgoins/go-winacl/commits?author=audibleblink) | Ports Windows Security Descriptor parsing to Golang| 
 | [ldsview](https://github.com/kgoins/ldsview/commits?author=audibleblink) | Exftract and Query LDAP directories offline | 
+| [sadad](#) | Unreleased: Golang Active Directory attack platform | 
+
 
 ### Some Personal Projects
 | Repo Link | Project Description |
