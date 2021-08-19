@@ -22,6 +22,7 @@
 ### Some Personal Projects
 | Repo Link | Project Description |
 | ---|---|
+| [rpcls](https://github.com/audibleblink/rpcls) | Pull loaded DLLs from the PEB, imported funcions from the in-memory IAT to see if the process is hosting RPC (Go)|
 | [ino](https://github.com/audibleblink/ino) | PE parser that extracts Imports, Exports, Forwards to Cypher-friendly JSON for Neo4j ingestion (Go)|
 | [gorsh](https://github.com/audibleblink/gorsh) | Toy malware and reverse shell for CTFs. Includes enum scripts and exfil options (Go)|
 | [passdb-frontend](https://github.com/audibleblink/passdb-frontend) | Svelte.js frontend for pivoting around public password dumps (JS)|
