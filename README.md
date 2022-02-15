@@ -22,6 +22,8 @@
 ### Some Personal Projects
 | Repo Link | Project Description |
 | ---|---|
+| [dllexical](https://github.com/audibleblink/dllexical) | Small workbench for simplfying DLL hijack payload generation by adding DLL Forwards to binaries (Go)|
+| [dllinquent](https://github.com/audibleblink/dllinquent) | ioutil.Scanner interface for walk PE PEBs (Go) |
 | [rpcls](https://github.com/audibleblink/rpcls) | Pull loaded DLLs from the PEB, imported funcions from the in-memory IAT to see if the process is hosting RPC (Go)|
 | [ino](https://github.com/audibleblink/ino) | PE parser that extracts Imports, Exports, Forwards to Cypher-friendly JSON for Neo4j ingestion (Go)|
 | [gorsh](https://github.com/audibleblink/gorsh) | Toy malware and reverse shell for CTFs. Includes enum scripts and exfil options (Go)|
